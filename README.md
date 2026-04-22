@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/iker-gonzalez/42_cursus/blob/main/assets/42-logo.png" width="260" />
+	<img src="https://github.com/iker-gonzalez/42_cursus/blob/main/assets/42-logo.png" width="380" />
 </p>
 
 <h1 align="center">
@@ -7,12 +7,12 @@
 </h1>
 
 <p align="center">
-	<b><i>Projects developed at 42 Rome common core programming track.</i></b><br>
+	<b><i>Projects developed at <a href="https://42roma.it/">42 Rome</a> common core programming track.</i></b><br>
 	A journey through low-level thinking, problem solving, and building from scratch.
 </p>
 
 <p align="center">
-	<a href="https://42.fr/">42 School</a> • <a href="https://www.42network.org/">42 Network</a> • <a href="https://42roma.it/">42 Rome</a>
+	<a href="https://42.fr/">42 School</a> • <a href="https://www.42network.org/">42 Network</a>
 </p>
 
 <p align="center">
