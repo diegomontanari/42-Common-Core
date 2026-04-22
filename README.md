@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://42.fr/wp-content/uploads/2021/07/L1018059-2000x1331.jpg" 
        alt="42 School"
-       style="width: 100%; height: 220px; object-fit: cover; object-position: center; border-radius: 14px;">
+       style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 12px;">
 </p>
 
 ## 📌 1. What is 42?
