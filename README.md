@@ -12,10 +12,6 @@
 </p>
 
 <p align="center">
-	<a href="https://42.fr/">42 School</a> • <a href="https://www.42network.org/">42 Network</a>
-</p>
-
-<p align="center">
 	<a href="#what-is-42">About 42</a> · <a href="#the-projects-collected-here">Skills developed at 42 common core</a> · <a href="#42-common-core--rank-overview">42 projects</a>
 </p>
 
