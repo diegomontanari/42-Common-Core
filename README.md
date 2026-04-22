@@ -12,12 +12,16 @@
 </p>
 
 <p align="center">
-	<a href="#what-is-42">About 42</a> · <a href="#the-projects-collected-here">Skills developed at 42 common core</a> · <a href="#42-common-core--rank-overview">42 projects</a>
+	<a href="https://42.fr/">42 School</a> • <a href="https://www.42network.org/">42 Network</a>
+</p>
+
+<p align="center">
+	<a href="#about-42">About 42</a> · <a href="#skills-developed">Skills developed at 42 common core</a> · <a href="#projects">42 projects</a>
 </p>
 
 ---
 
-## 📌 1. What is 42?
+## 📌 1. What is 42? {#about-42}
 
 **42** is an innovative programming school with no teachers and no traditional lectures.
 It is built on a **peer-to-peer learning model**, where students grow by working on real projects and collaborating with each other.
@@ -35,7 +39,7 @@ Instead of studying theory first, you learn by **building from day one**.
 
 ---
 
-## 🛠️ 2. The Projects Collected Here
+## 🛠️ 2. Skills developed at 42 common core {#skills-developed}
 
 This repository gathers all the projects completed during the **Common Core**.
 
@@ -51,7 +55,7 @@ Each project is:
 
 ---
 
-## 📚 3. Index
+## 📚 3. Index {#projects}
 
 ### 🧩 42 Common Core – Rank Overview
 
