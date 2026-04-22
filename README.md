@@ -3,9 +3,9 @@
 *A journey through low-level thinking, problem solving, and building from scratch.*
 
 <p align="center">
-  <img src="https://42.fr/wp-content/uploads/2025/07/42UP-campus-details01.jpg" 
-       alt="42 Campus"
-       style="width: 100%; max-height: 320px; object-fit: cover; border-radius: 16px;">
+  <img src="https://42.fr/wp-content/uploads/2021/07/L1018059-2000x1331.jpg" 
+       alt="42 School"
+       style="width: 100%; height: 220px; object-fit: cover; object-position: center; border-radius: 14px;">
 </p>
 
 ## 📌 1. What is 42?
@@ -22,11 +22,10 @@ The curriculum is designed to develop:
 
 Instead of studying theory first, you learn by **building from day one**.
 
-
 <p align="center">
-  <img src="https://42.fr/wp-content/uploads/2021/07/L1018059-2000x1331.jpg" 
-       alt="42 School"
-       style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 12px;">
+  <img src="https://42.fr/wp-content/uploads/2025/07/42UP-campus-details01.jpg" 
+       alt="42 Campus"
+       style="width: 100%; height: 220px; object-fit: cover; object-position: center; border-radius: 14px;">
 </p>
 
 ## 🛠️ 2. The Projects Collected Here
