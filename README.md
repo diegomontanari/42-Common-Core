@@ -22,7 +22,10 @@ The curriculum is designed to develop:
 
 Instead of studying theory first, you learn by **building from day one**.
 
-Discover 42 Paris • Explore the 42 Network
+<p align="center">
+  <a href="https://42.fr/" target="_blank">Discover 42 Paris</a> • 
+  <a href="https://www.42network.org/" target="_blank">Explore the 42 Network</a>
+</p>
 
 <p align="center">
   <img src="https://42.fr/wp-content/uploads/2025/07/42UP-campus-details01.jpg" 
