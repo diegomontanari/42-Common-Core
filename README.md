@@ -1,8 +1,19 @@
-# 🚀 Common Core – 42 School
+<p align="center">
+	<img src="https://github.com/iker-gonzalez/42_cursus/blob/main/assets/42-logo.png" width="120" />
+</p>
 
-*A journey through low-level thinking, problem solving, and building from scratch.*
+<h1 align="center">
+	42 Common Core
+</h1>
 
-![42 School](https://42.fr/wp-content/uploads/2021/07/L1018059-2000x1331.jpg)
+<p align="center">
+	<b><i>Projects developed at 42 Rome common core programming track.</i></b><br>
+	A journey through low-level thinking, problem solving, and building from scratch.
+</p>
+
+<p align="center">
+	<a href="https://42.fr/">42 School</a> • <a href="https://www.42network.org/">42 Network</a>
+</p>
 
 ---
 
