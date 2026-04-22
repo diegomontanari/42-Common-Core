@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/iker-gonzalez/42_cursus/blob/main/assets/42-logo.png" width="180" />
+	<img src="https://github.com/iker-gonzalez/42_cursus/blob/main/assets/42-logo.png" width="260" />
 </p>
 
 <h1 align="center">
