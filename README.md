@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/iker-gonzalez/42_cursus/blob/main/assets/42-logo.png" width="120" />
+	<img src="https://github.com/iker-gonzalez/42_cursus/blob/main/assets/42-logo.png" width="180" />
 </p>
 
 <h1 align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<a href="https://42.fr/">42 School</a> • <a href="https://www.42network.org/">42 Network</a>
+	<a href="https://42.fr/">42 School</a> • <a href="https://www.42network.org/">42 Network</a> • <a href="https://42roma.it/">42 Rome</a>
 </p>
 
 <p align="center">
