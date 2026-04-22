@@ -1,12 +1,10 @@
-# 🚀 42 Coding School – Common Core 
+# 🚀 Common Core – 42 School
 
 *A journey through low-level thinking, problem solving, and building from scratch.*
 
-<p align="center">
-  <img src="https://42.fr/wp-content/uploads/2021/07/L1018059-2000x1331.jpg" 
-       alt="42 School"
-       style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 12px;">
-</p>
+![42 School](https://42.fr/wp-content/uploads/2021/07/L1018059-2000x1331.jpg)
+
+---
 
 ## 📌 1. What is 42?
 
@@ -22,16 +20,9 @@ The curriculum is designed to develop:
 
 Instead of studying theory first, you learn by **building from day one**.
 
-<p align="left">
-  <a href="https://42.fr/" target="_blank">Discover 42 Paris</a> • 
-  <a href="https://www.42network.org/" target="_blank">Explore the 42 Network</a>
-</p>
+[Discover 42 Paris](https://42.fr/) • [Explore the 42 Network](https://www.42network.org/)
 
-<p align="center">
-  <img src="https://42.fr/wp-content/uploads/2025/07/42UP-campus-details01.jpg" 
-       alt="42 Campus"
-       style="width: 100%; max-height: 320px; object-fit: cover; border-radius: 16px;">
-</p>
+---
 
 ## 🛠️ 2. The Projects Collected Here
 
@@ -51,20 +42,25 @@ Each project is:
 
 ## 📚 3. Index
 
-### 🧩 Common Core Projects
+### 🧩 42 Common Core – Rank Overview
 
-| Project                              | Description                                      | Technologies / Concepts     |
-| ------------------------------------ | ------------------------------------------------ | --------------------------- |
-| [**Libft**](./libft)                 | Reimplementation of standard C library functions | C, memory, strings          |
-| [**ft_printf**](./ft_printf)         | Recreation of the printf function                | Parsing, variadic functions |
-| [**get_next_line**](./get_next_line) | Read a file line by line                         | File descriptors, buffering |
-| [**Born2beroot**](./born2beroot)     | Introduction to Linux and virtual machines       | Sysadmin, security          |
-| [**push_swap**](./push_swap)         | Sorting algorithm under constraints              | Algorithms, stacks          |
-| [**pipex**](./pipex)                 | Recreating shell pipes behavior                  | Processes, fork, exec       |
-| [**so_long**](./so_long)             | Simple 2D game                                   | Graphics, event handling    |
-| [**philosophers**](./philosophers)   | Dining philosophers problem                      | Threads, concurrency        |
-| [**minishell**](./minishell)         | Custom shell implementation                      | Parsing, processes, signals |
-| [**cub3D**](./cub3D)                 | Wolfenstein-like 3D engine                       | Raycasting, math            |
+| Index | Project                                |     Mark    | Description                                             |  With  |                                                                                                                                                                            Language                                                                                                                                                                            |
+| :---: | :------------------------------------- | :---------: | :------------------------------------------------------ | :----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   1   | [libft](./libft)                       |     125%    | Basic C library reimplementation used across the cursus |        |                                                                                                                              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width="35"/>                                                                                                                             |
+|   2   | [get_next_line](./get_next_line)       |     125%    | Read a file line by line using file descriptors         |        |                                                                                                                              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width="35"/>                                                                                                                             |
+|   3   | [ft_printf](./ft_printf)               |     125%    | Recreation of printf function in C                      |        |                                                                                                                              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width="35"/>                                                                                                                             |
+|   4   | born2beroot                            |     125%    | Linux VM setup and system administration fundamentals   |        |                                                                                                                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="35"/>                                                                                                                       |
+|   5   | [push_swap](./push_swap)               |     125%    | Sorting algorithm under strict constraints              |        |                                                                                                                              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width="35"/>                                                                                                                             |
+|   6   | [so_long](./so_long)                   |     125%    | Small 2D game with textures and basic gameplay          |        |                                                                                                                              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width="35"/>                                                                                                                             |
+|   7   | [philosophers](./philosophers)         |     125%    | Concurrency problem solved with threads and mutex       |        |                                                                                                                              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width="35"/>                                                                                                                             |
+|   8   | [minishell](./minishell)               | in progress | Bash-like shell with parsing and process handling       | [team] |                                                                                                                              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width="35"/>                                                                                                                             |
+|   9   | net_practice                           |     100%    | Network configuration and TCP/IP fundamentals           |        |                                                                                                                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg" width="35"/>                                                                                                                     |
+|   10  | [cpp_modules](./cpp_piscine)           |     100%    | C++ piscine covering OOP and STL foundations            |        |                                                                                                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35"/>                                                                                                                    |
+|   11  | [cub3D](./cub3d)                       |     105%    | Raycasting-based 3D engine inspired by Wolfenstein      | [team] |                                                                                                                              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width="35"/>                                                                                                                             |
+|   12  | [ft_containers](./ft_containers)       |     93%     | STL container reimplementation in C++                   |        |                                                                                                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35"/>                                                                                                                    |
+|   13  | [webserv](./webserv)                   |     100%    | HTTP server implementation in C++                       | [team] |                                                                                                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35"/>                                                                                                                    |
+|   14  | [inception](./inception)               |     100%    | Docker-based system architecture with services          |        |                                                                                                                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="35"/>                                                                                                                       |
+|   15  | [ft_transcendence](./ft_transcendence) | in progress | Full-stack web app with OAuth, realtime features        | [team] | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="35"/> |
 
 ---
 
